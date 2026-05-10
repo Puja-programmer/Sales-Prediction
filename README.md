@@ -42,9 +42,6 @@ The dataset includes:
 * Compared performance of different algorithms
 * Identified important features affecting sales
 
-## GitHub Link
-
-[Add your repository link here]
 
 ## Learnings
 
